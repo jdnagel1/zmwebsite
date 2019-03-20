@@ -49,3 +49,9 @@ body  {
 a:active {
   color: blue;
 }
+
+p.fruits {
+  font-size: 50px;
+  color: brown;
+  font-family: fantasy;
+}
